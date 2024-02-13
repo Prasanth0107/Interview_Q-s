@@ -1,10 +1,16 @@
 What is AWS?
+
 2. What is a cloud?
-3. What is EC2?
-4. What is VPC?
-5. What is AZ?
-6. What is ELB?
-7. What is VPC peering?
+   
+4. What is EC2?
+   
+6. What is VPC?
+   
+8. What is AZ?
+   
+10. What is ELB?
+    
+12. What is VPC peering?
 
 VPC peering is a networking connection between two Virtual Private Clouds (VPCs) in a cloud environment, allowing them to communicate with each other securely. VPC peering enables the sharing of resources and services between different VPCs within the same cloud provider.
 
