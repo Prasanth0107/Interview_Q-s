@@ -480,12 +480,8 @@ dictionary?
 6. AWS bill suddenyl increase. Explain me process to figure out root case
 7. After deployment application is not working. How to roll back last stable version in Jenkins?
 
-## If you want more real time AWS and DevOps Questions ping me on below WhatsApp Number.
-# +91-9860 7555 32
-# namdev.devops@gmail.com
-# https://www.youtube.com/@namdev.devops
-
-  
+#Thank you :)
+#Happy Learning...  
   
 
 
